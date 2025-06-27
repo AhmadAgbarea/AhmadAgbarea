@@ -52,50 +52,6 @@ I build SaaS products, logistics platforms, and customer-facing solutions with c
 * Project Management: Jira, Confluence, Trello, Slack, Microsoft Teams
 * Agile methodologies: Scrum, Kanban
 
----
-
-## 🚀 Projects Highlights
-
-### LogiKey – Last-Mile Delivery Platform
-
-* Full-stack development of logistics SaaS with NestJS microservices on AWS Kubernetes
-* Angular dashboards integrated with ERP & eCommerce APIs
-
-### HAAT Delivery – Food Logistics Ecosystem
-
-* Angular & .NET Core services for CRM and delivery workflows
-* Automated CI/CD pipelines and system reliability on Azure
-
-### LearnFlow (Academic Project)
-
-* Real-time analytics platform monitoring virtual classroom engagement
-* Built scalable cloud architecture with GitOps rollback
-
-### Digital Business Tools (Self-Employed)
-
-* SaaS tools for SMBs: NFC digital cards, QR menus, reservation systems
-* Developed mobile-to-kitchen full workflow apps
-
----
-
-## 🧑‍💼 Experience
-
-* **Full-Stack Engineer – LogiKey** | Oct 2022 – Dec 2024
-* **Software Engineer – HAAT Delivery** | Jun 2020 – Jan 2022
-* **DevOps Engineer – Develeap** | Jul 2019 – Feb 2021
-* **Frontend Developer – NICE Systems** | Sep 2019 – Feb 2020
-* **Teaching Assistant – Kinneret Academic College** | Oct 2018 – Mar 2020
-
----
-
-## 🎓 Education & Certifications
-
-* B.Sc. Software Engineering – Kinneret College (2014–2019)
-* Practical Software Engineer – Ort Braude College (2012–2014)
-* AWS Certified SysOps Administrator – Associate
-* DevOps Professional Training (600+ hours) – Develeap
-
----
 
 ## 🌱 Currently
 
