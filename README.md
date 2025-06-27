@@ -173,6 +173,7 @@ Diving deeper into **AI** — exploring how AI is transforming frontend workflow
 - [Web Site](https://ahmadsabah-coral.vercel.app)
 - [Email](AhmadSabahSE@gmail.com) AhmadSabahSE@gmail.com
 
+![image](https://github.com/user-attachments/assets/c54f79cc-968e-4190-8e4f-368e147733cc)
 
 
 Feel free to explore my repositories, contribute to projects, or reach out if you'd like to collaborate! 😄
