@@ -4,8 +4,8 @@ Hello! I'm **Ahmad**, a passionate **Software Engineer** with a strong backgroun
 - 💻 **Role**: Software Engineer
 - 🔧 **Expertise**: Full Stack Development & DevOps
 - 🚀 I love building scalable applications and optimizing deployment processes.
-- 🌱 Currently, I'm diving deeper into **Cloud Technologies** and **CI/CD** pipelines.
-- 📚 I enjoy solving problems, writing clean code, and continuously learning new tech trends.
+- 🌱 Currently, I'm diving deeper into AI, exploring how it has transformed frontend design workflows in Figma, as well as its impact on the DevOps role.
+- 📚 I enjoy solving problems, continuously learning new tech trends.
 
 ## Technologies I Work With:
 - **Frontend**: JavaScript, React, Vue.js, HTML, CSS
