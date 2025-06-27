@@ -1,5 +1,5 @@
 
-<img width="806" alt="Screenshot 2025-06-27 at 23 52 50" src="https://github.com/user-attachments/assets/7af7efc8-a701-42d3-8570-7a260f331055" />
+![Group 22](https://github.com/user-attachments/assets/a240ce5e-4534-436b-b24e-995ef506529d)
 
 
 ---
