@@ -1,5 +1,5 @@
 
-![Group 22](https://github.com/user-attachments/assets/a240ce5e-4534-436b-b24e-995ef506529d)
+![Group 22](https://github.com/user-attachments/assets/d4e6ccbc-112c-497d-81ac-af1ea3464f2f)
 
 
 ---
