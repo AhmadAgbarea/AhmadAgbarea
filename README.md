@@ -169,10 +169,11 @@ Diving deeper into **AI** — exploring how AI is transforming frontend workflow
 
 
 ### Connect with Me:
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Personal Blog](your-website-url)
-- [Email](your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/ahmad-sabah/)
+- [Web Site](https://ahmadsabah-coral.vercel.app)
+- [Email](AhmadSabah90@outlook.com)
+
+
 
 Feel free to explore my repositories, contribute to projects, or reach out if you'd like to collaborate! 😄
 
