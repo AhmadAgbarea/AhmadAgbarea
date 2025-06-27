@@ -1,6 +1,8 @@
 
----
+<img width="806" alt="Screenshot 2025-06-27 at 23 52 50" src="https://github.com/user-attachments/assets/1c86b5a9-2f92-4f9f-a436-411e3b2fcfaa" />
 
+
+---
 # Hi, I'm Ahmad Sabah 👋
 
 I’m a passionate and results-driven **Software Engineer** with 7+ years of experience across **full-stack development**, **cloud infrastructure**, and **DevOps automation**. I thrive at the intersection of frontend experiences, backend logic, and scalable cloud-native systems.
