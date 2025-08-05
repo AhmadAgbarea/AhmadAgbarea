@@ -1,135 +1,92 @@
 
 ![Group 22](https://github.com/user-attachments/assets/d4e6ccbc-112c-497d-81ac-af1ea3464f2f)
+# 👋 Hi, I'm Ahmad Sabah
 
-
----
-# Hi, I'm Ahmad Sabah 👋
-
-I’m a passionate and results-driven **Software Engineer** with 7+ years of experience across **full-stack development**, **cloud infrastructure**, and **DevOps automation**. I thrive at the intersection of frontend experiences, backend logic, and scalable cloud-native systems.
-
-I build SaaS products, logistics platforms, and customer-facing solutions with clean code, strong system design, and continuous delivery — all backed by ownership, curiosity, and a growth mindset.
+I’m a versatile **Full-Stack & DevOps Engineer** with 7+ years of experience building scalable SaaS platforms, cloud-native architectures, and enterprise-grade apps. I specialize in delivering high-performance web/mobile solutions from **frontend design** to **backend services**, while integrating CI/CD, observability, and automation best practices.
 
 ---
 
-## 💻 Tech Stack & Skills
+## 🚀 Tech Stack Overview
 
-### Programming Languages
+### 🧱 Full-Stack Development
+- **Frontend:** React, Angular, Next.js, Flutter, React Native, .NET MAUI  
+- **State Management:** Redux, Riverpod, GetX  
+- **Styling:** Tailwind, SCSS, Angular Material, Styled Components  
+- **Backend:** Node.js (NestJS, Express), .NET Core, Python  
+- **APIs:** REST, GraphQL, Swagger  
+- **Databases:** PostgreSQL, MySQL, MSSQL, MongoDB, Redis, Firebase, Neo4j  
+- **Messaging & Queues:** Kafka, RabbitMQ, SQS, SNS, Pub/Sub  
 
-* C#, JavaScript, TypeScript (OOP, Functional Programming, Algorithms)
-* Python, Shell scripting (automation, data processing, system admin)
-
-### Frameworks & Libraries
-
-* **Frontend:** Angular, React, Vue.js, AngularJS, TypeScript, SASS, Bootstrap, Angular Material
-* **Backend:** .NET Core, ASP.NET, Node.js, Express.js, NestJS
-* **API:** RESTful API, GraphQL
-* **Data:** Entity Framework, Sequelize ORM, Firebase, Redis, MongoDB
-
-### Cloud & DevOps
-
-* **Cloud Platforms:** AWS (Lambda, EC2, S3, RDS), Azure, Google Cloud Platform (GCP)
-* **Containerization & Orchestration:** Docker, Kubernetes, Helm
-* **Infrastructure as Code:** Terraform, ARM, AWS CloudFormation
-* **CI/CD:** Jenkins, GitHub Actions, GitLab CI, Azure DevOps, CircleCI
-* **Monitoring:** Prometheus, Grafana, ELK Stack, Sentry, Datadog
-
-### Testing & QA
-
-* Unit Testing: JUnit, NUnit, Mocha, Jasmine, Karma, Protractor
-* Automation: Cypress, TestCafe, Selenium WebDriver
-* Integration Testing: Selenium, Postman, Rest Assured
-
-### Security & IAM
-
-* OAuth 2.0, JWT, OpenID Connect
-* AWS IAM, Azure AD, HashiCorp Vault
-* Secure coding principles, encryption, access control policies
-
-### Tools & Collaboration
-
-* IDEs: Visual Studio, VS Code, IntelliJ IDEA, WebStorm
-* Version Control: Git (GitHub, GitLab, Bitbucket)
-* Project Management: Jira, Confluence, Trello, Slack, Microsoft Teams
-* Agile methodologies: Scrum, Kanban
-
-
-## 🌱 Currently
-
-Diving deeper into **AI** — exploring how AI is transforming frontend workflows (Figma design) and reshaping DevOps roles to automate and optimize delivery pipelines.
+### ⚙️ DevOps & Cloud Engineering
+- **Containers & Orchestration:** Docker, Kubernetes, Helm, Rancher  
+- **CI/CD & GitOps:** GitHub Actions, Jenkins, ArgoCD, GitLab CI  
+- **Infrastructure as Code:** Terraform, Ansible, AWS CloudFormation  
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, Loki, Datadog, Sentry  
+- **Cloud Platforms:** AWS (EC2, S3, Lambda), Azure, GCP  
+- **Automation & Scripting:** Bash, Python, JSON, YAML, Groovy  
 
 ---
 
+## 🧪 Testing & Quality
+- **Unit Testing:** Jest, Mocha, xUnit  
+- **Integration Testing:** Postman, Selenium  
+- **E2E Testing:** Cypress, Protractor  
+- **Code Quality:** SonarQube, Clean Code Principles  
+- **Best Practices:** TDD, CI-integrated test pipelines, code reviews  
 
-## Soft Skills
-- Strong Troubleshooting
-- Critical Thinking
-- Continuous Learning
-- Agile Methodology
-- Time Management
-- Adaptability
+---
 
-<br>
+## 🧠 Software Engineering Principles
+- **Design Patterns**, **Data Structures**, **Algorithms**  
+- **OOP**, **Functional Programming**, **Modular Architecture**  
+- SOLID, DRY, KISS, YAGNI  
+- Microservices & Event-Driven Architecture  
+- Pub/Sub Models, Message Queues  
+- Domain-Driven Design (DDD)  
+- Agile & DevOps Culture  
+- Documentation & Collaboration  
 
------
-## Technical Skills in Martrix View
+---
 
-## ⚙️ DevOps & Cloud Engineering
+## 📦 Projects & Highlights
+- 🚚 **LogiKey** – AI-powered logistics management platform  
+- 🛍 **Biddo.shop** – Marketplace with POS & delivery dashboards  
+- 🎓 **Te2orya.com** – Multilingual driving theory test app (Flutter + Firebase)  
+- 🚗 **Click2Go** – Location-based driving school onboarding platform  
+- 📇 NFC-enabled digital business cards with short links and QR  
 
-| **Category**                  | **Key Tools & Technologies**                                              |
-| ----------------------------- | ------------------------------------------------------------------------- |
-| **Containerization**          | Docker, Kubernetes (K8s), Helm                                            |
-| **Infrastructure as Code**    | Terraform, Ansible, CloudFormation (AWS), ARM (Azure)                     |
-| **CI/CD & GitOps**            | Jenkins, GitHub Actions, GitLab CI, ArgoCD, FluxCD                        |
-| **Automation & Scripting**    | Bash, Python scripting, Makefiles                                         |
-| **Monitoring & Logging**      | Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), DataDog |
-| **Security & Secrets**        | IAM (AWS), KMS, HashiCorp Vault, Secrets Manager, Parameter Store         |
-| **Event & Stream Processing** | Kafka, RabbitMQ                                                           |
-| **Cloud Platforms**           | AWS (EC2, S3, Lambda, IAM, Route 53), Azure (AKS, App Services)           |
-| **Testing & Quality**         | Selenium, Protractor, e2e test pipelines                                  |
+---
 
+## 🌍 Localization & Accessibility
+- Mobile-first and multilingual apps with support for **Arabic** and **Hebrew**, focused on the **MENA** region.  
 
-<br>
+---
 
-----
-## 💻 Full-Stack Development
+## 🧾 Certifications
+- 🏅 **DevOps Professional Training** – Develeap (600 hours)  
+- ☁️ **AWS SysOps Administrator – Associate**  
 
+---
 
-| **Category**                 | **Key Technologies & Tools**                                                         |
-| ---------------------------- | ------------------------------------------------------------------------------------ |
-| **Frontend Frameworks**      | Angular, React, React Native, Next.js, Flutter, .NET MAUI                            |
-| **State Management**         | Redux, Riverpod, GetX                                                                |
-| **Styling & Markup**         | HTML5, CSS3, SASS, Angular Material UI                                               |
-| **Testing**                  | Unit Tests, e2e: Protractor, Selenium, Cypress                                       |
-| **Backend Frameworks**       | .NET Core, Node.js, NestJS, Laravel, Python                                          |
-| **API Design & Integration** | REST APIs, GraphQL, Swagger                                                          |
-| **Databases**                | Firebase, MongoDB, MySQL, MSSQL, Cassandra, Redis                                    |
-| **Messaging & Events**       | Kafka                                                                                |
-| **CI/CD & Automation**       | Integrated CI/CD with frontend & backend pipelines (Jenkins, GitHub Actions, ArgoCD) |
+## 🤝 Soft Skills
+- Ownership & Problem-Solving  
+- Continuous Learning & Mentorship  
+- Collaboration & Communication  
+- Agile & Cross-functional Teamwork  
+- Adaptability & Initiative  
 
+---
 
-<br>
+## 📬 Let's Connect
 
-------
+- 📧 Email: [AhmadSabahSE@gmail.com](mailto:AhmadSabahSE@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/ahmad-sabah](https://linkedin.com/in/ahmad-sabah)  
+- 🌐 Website: [ahmadsabah-coral.vercel.app](https://ahmadsabah-coral.vercel.app)  
 
-## ☁️ AWS SysOps
+---
 
-| **Category**             | **Key Services & Tools**                                                  |
-| ------------------------ | ------------------------------------------------------------------------- |
-| **Compute & Containers** | EC2, Auto Scaling, ELB (ALB/NLB), Lambda, ECS, EKS                        |
-| **Networking & CDN**     | VPC, Subnets, Route 53, Security Groups, NAT Gateways, CloudFront         |
-| **Storage & Backup**     | S3, EBS, EFS, Glacier, Storage Gateway                                    |
-| **Databases & Caching**  | RDS, Aurora, DynamoDB, ElastiCache (Redis/Memcached)                      |
-| **Monitoring & Logging** | CloudWatch (logs, metrics, dashboards, alarms), CloudTrail, Config        |
-| **Automation & IaC**     | CloudFormation, Systems Manager (SSM), OpsWorks, CodeDeploy, CodePipeline |
-| **Security & IAM**       | IAM, KMS, Secrets Manager, WAF, Shield                                    |
-| **Cost & Optimization**  | Trusted Advisor, Cost Explorer, AWS Budgets                               |
- 
+_“I build solutions that solve problems, scale with purpose, and grow with people.”_
 
-
-### Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/ahmad-sabah/)
-- [Web Site](https://ahmadsabah-coral.vercel.app)
-- [Email](AhmadSabahSE@gmail.com) AhmadSabahSE@gmail.com
 
 ![image](https://github.com/user-attachments/assets/c54f79cc-968e-4190-8e4f-368e147733cc)
 
